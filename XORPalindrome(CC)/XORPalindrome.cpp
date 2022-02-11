@@ -39,7 +39,7 @@ int main()
             }
             else
             {
-                if (zeros == ones)
+                if (zeros == ones || zeros % 2 == 0)
                 {
                     cout << "YES" << endl;
                 }
