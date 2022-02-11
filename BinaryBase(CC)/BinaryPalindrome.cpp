@@ -1,3 +1,5 @@
+// Question Link -->> https://www.codechef.com/FEB221C/problems/BINBASBASIC
+
 #include <iostream>
 #include <string>
 #include <stdlib.h>

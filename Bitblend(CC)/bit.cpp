@@ -1,3 +1,6 @@
+
+// Question Link -->> https://www.codechef.com/problems/BITBLEND
+
 #include <iostream>
 #include <vector>
 #include <string>
