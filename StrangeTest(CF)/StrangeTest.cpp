@@ -1,4 +1,6 @@
 
+// Question Link -->> https://codeforces.com/contest/1632/problem/C
+
 #include <iostream>
 #include <stdlib.h>
 #include <string>
@@ -46,8 +48,6 @@ int main()
                 }
             }
 
-            // if (powerA % 2 == 0 && a != pow(2, powerA) - 1)
-
             for (int i = b; i < pow(2, power); i++)
             {
                 if ((a | i) == i)
@@ -65,8 +65,6 @@ int main()
                     break;
                 }
             }
-
-            // else
 
             int j = a;
             while (true)
